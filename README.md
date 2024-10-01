@@ -148,6 +148,6 @@ Remember: **Interoperability** comes with great power, but also with great respo
 ## References
 
 1. [A Survey on Blockchain Interoperability](https://arxiv.org/abs/2005.14282)
-2. [Cross-Chain Bridges: The Good, the Bad, and the Ugly](https://research.chain.link/cross-chain-bridges/)
-3. [Price Manipulation in DeFi](https://docs.chain.link/docs/price-feeds/)
+2. [Cross-Chain Bridges: The Good, the Bad, and the Ugly](https://members.delphidigital.io/feed/blockchain-security-the-good-the-bad-and-the-ugly)
+3. [Blockchain Interoperability Challenges Explained](https://blog.chain.link/blockchain-interoperability-challenges/)
 
